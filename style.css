@@ -1,0 +1,53 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    width: 800px;
+    height: 600px;
+    background-color: #9EE0FD;
+    border: 7px solid brown;
+    border-radius: 50%;
+}
+
+#date {
+    font-size: 25px;
+    font-weight: bolder;
+    width: 300px;
+    background-color: white;
+    border: 3px solid brown;
+    text-align: center;
+    padding: px;
+    margin: auto;
+    margin-bottom: 20px;
+}
+.clock {
+    border: 5px solid wheat;
+    width: 500px;
+    height: 200px;
+    background-color: black;
+    padding: 10px;
+}
+td {
+    border: 3px solid wheat;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    background-color: aliceblue;
+    color: black;
+    font-weight: bold;
+    padding: 0;
+}
+p {
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+}
+.time {
+    font-size: 50px;
+}
